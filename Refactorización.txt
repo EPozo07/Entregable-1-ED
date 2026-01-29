@@ -1,0 +1,4 @@
+El código lo he refactorizado para que pueda tener un mejor mantenimiento y legibilidad.
+Además he cambiado variables que no tenian ningún tipo de legibilidad como, n->numeros,
+a->contador,c-> máximo y asi con muchos más.
+Por último he creado métodos para evitar errores y mejorar la comprensión del programa.
